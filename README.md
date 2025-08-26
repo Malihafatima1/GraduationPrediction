@@ -4,7 +4,7 @@ This project predicts student graduation outcomes using Machine Learning models 
 
 🚀 Live Demo
 
-👉 Click here to try the app
+(https://malihafatima1-graduationprediction-app-anscty.streamlit.app/)
 
 
 ✨ Features
