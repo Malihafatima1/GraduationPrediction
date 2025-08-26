@@ -1,0 +1,9 @@
+/* Lavender page background */
+body {
+    background-color: lavender !important;
+}
+
+/* Sky blue sidebar */
+section[data-testid="stSidebar"] {
+    background-color: rgb(162, 38, 173) !important;
+}
