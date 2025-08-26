@@ -83,9 +83,6 @@ The dataset (graduation_dataset.csv) contains student attributes used to train t
 
     Encoders for preprocessing
 
-📸 Screenshots
-
-(Add screenshots of your app for better presentation)
 ✨ Future Enhancements
 
     Add more ML models for comparison.
